@@ -17,7 +17,7 @@ Silverstripe module to provide site-wide content search with elasticsearch
 composer require somardesignstudios/silverstripe-elastic-search
 ```
 
-3. Create `log` folder in the root of the project with permissions allowing write to the user running the site
+2. Create `log` folder in the root of the project with permissions allowing write to the user running the site
 
 ## Elastic connection configuration
 
